@@ -1,10 +1,13 @@
 Modporting is the organization used for storing the Fabric 1.21.4 ports created by Nexusrealms and maybe someday others.
+
 minecraft_version=1.21.4
+
 yarn_mappings=1.21.4+build.7
+
 loader_version=0.16.9
 
-# Fabric API
 fabric_version=0.114.0+1.21.4
+
 <!--
 
 **Here are some ideas to get you started:**
