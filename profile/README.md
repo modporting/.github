@@ -1,12 +1,12 @@
-Modporting is the organization used for storing the Fabric 1.21.4 ports created by Nexusrealms and maybe someday others.
+Modporting is the organization used for storing the Fabric 1.21.1 ports created by Nexusrealms and maybe someday others.
 
-minecraft_version=1.21.4
+minecraft_version=1.21.1
 
-yarn_mappings=1.21.4+build.7
+yarn_mappings=1.21.1+build.3
 
-loader_version=0.16.9
+loader_version=0.16.10
 
-fabric_version=0.114.0+1.21.4
+fabric_version=0.114.0+1.21.1
 
 <!--
 
