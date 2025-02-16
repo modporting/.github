@@ -8,6 +8,7 @@ loader_version=0.16.10
 
 fabric_version=0.114.0+1.21.1
 
+The only project we have now is Surival Island, all the other repositiories are from the older iteration of modporting which ported to 1.21.4
 <!--
 
 **Here are some ideas to get you started:**
